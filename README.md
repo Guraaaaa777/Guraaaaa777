@@ -1,16 +1,16 @@
-## Hi there 👋
+# Profile
 
-<!--
-**Guraaaaa777/Guraaaaa777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Name: Gura
+- Birthday: 2006/01/15
+- From: osaka japan
+- Hobby: game, sleep, server, guitar(start 26/09!)
 
-Here are some ideas to get you started:
+# History
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 2024
+  - Apr: recruit
+  - ? what did i did
+- 2025
+  - ? what did i dod
+- 2026
+  - ? what did i did
